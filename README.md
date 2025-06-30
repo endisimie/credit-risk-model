@@ -164,10 +164,6 @@ pytest tests/ -v
 (See earlier section for details on Basel II, interpretability, proxy risk design, and model trade-offs)
 
 ---
-
-## 📬 Contact
-For questions or contributions, reach out to the Analytics Engineering team at Bati Bank.
-
 ---
 
 **Project Status:** ✅ MVP complete. Model trained, deployed, and tracked.
