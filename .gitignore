@@ -1,0 +1,7 @@
+# Virtual environment files
+.venv/
+# Jupyter Notebook
+
+# Data files
+data/
+*.csv
