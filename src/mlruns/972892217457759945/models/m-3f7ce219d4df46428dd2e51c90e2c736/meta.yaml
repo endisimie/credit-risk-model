@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Administrator/Desktop/10%20Acadamy/week%205/credit-risk-model/src/mlruns/972892217457759945/models/m-3f7ce219d4df46428dd2e51c90e2c736/artifacts
+creation_timestamp: 1750971435212
+experiment_id: '972892217457759945'
+last_updated_timestamp: 1750971438611
+model_id: m-3f7ce219d4df46428dd2e51c90e2c736
+model_type: null
+name: logistic_regression
+source_run_id: 5c2aa5885a11484db1013f3aac025a9a
+status: 2
+status_message: null

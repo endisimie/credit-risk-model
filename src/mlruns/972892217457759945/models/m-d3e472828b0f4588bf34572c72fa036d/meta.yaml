@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Administrator/Desktop/10%20Acadamy/week%205/credit-risk-model/src/mlruns/972892217457759945/models/m-d3e472828b0f4588bf34572c72fa036d/artifacts
+creation_timestamp: 1750972222878
+experiment_id: '972892217457759945'
+last_updated_timestamp: 1750972226466
+model_id: m-d3e472828b0f4588bf34572c72fa036d
+model_type: null
+name: gbm
+source_run_id: 4df07f2694ad425a97da7ce806d8ed58
+status: 2
+status_message: null
